@@ -1,0 +1,9 @@
+classes:
+  - Left Hook
+  - Left Straight
+  - Left Uppercut
+  - Right Hook
+  - Right Straight
+  - Right Uppercut
+start color: red
+end color: blue
